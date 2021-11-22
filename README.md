@@ -22,7 +22,7 @@
 
 <br>
 
-5. Sometimes Github does not render Jupyter Notebooks correctly.  If this occurs, you can view a static version of the Notebook on nbviewer by clicking this icon below.   [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/RYANCOX00/Prog_DA/blob/main/Numpy_Random.ipynb). 
+5. Sometimes Github does not render Jupyter Notebooks correctly.  If this occurs, you can view a static version of the Notebook on nbviewer by clicking this icon.   [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/RYANCOX00/Prog_DA/blob/main/Numpy_Random.ipynb)
 
 ***
 
