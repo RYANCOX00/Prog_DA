@@ -2,7 +2,7 @@
 
 <br>
 
-1. To run this code a user will require Python 3 and the below listed packages to be installed.  It is recommended that a user downloads Anaconda as these particular packages are already pre-installed.  You can find a link to Anaconda [here](https://www.anaconda.com/products/individual).  Alternatively, Python 3 can be installed [here](https://www.python.org/downloads/). 
+1. To run this code a user will require Python 3 and the below listed packages to be installed.  It is recommended that a user downloads Anaconda as these particular packages are already pre-installed.  You can download Anaconda [here](https://www.anaconda.com/products/individual).  Alternatively, Python 3 can be downloaded [here](https://www.python.org/downloads/). 
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ***
 
-# Sumary ofthe Assignment
+# Summary ofthe Assignment
 
 <br>
 
