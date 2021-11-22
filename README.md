@@ -6,7 +6,7 @@
 
 <br>
 
-2. Should the user decide not to use Anaconda. He/ she can install the below the packages by calling the below on their command line:  
+2. Should the user decide not to use Anaconda. You can install the below the packages by calling the below on their command line:  
 
 - pip install pandas
 - pip install matplotlib
@@ -14,7 +14,7 @@
 
 <br>
 
-3. Installing cmder is recommended for users on Windows machines. cmder can be downloaded [here](https://cmder.net/). The command line on Linux and Mac is suitable.   The code is public and therefore can be pulled from GitHub by anyone. 
+3. Installing cmder is recommended for users on Windows machines. cmder can be downloaded [here](https://cmder.net/). The command line on Linux and Mac is suitable.   The repository is public and therefore can be pulled from GitHub by anyone. 
 
 <br>
 
